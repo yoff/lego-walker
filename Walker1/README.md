@@ -4,4 +4,4 @@
 
 Walker1 is my first lego technic walking robot. I consider it reasonably robust, in the sense that if anyone where to build it from the instructions and turn it on, it would likely actually walk.
 
-The instructions can be found [here](Walker1.pdf).
+The instructions can be found [here](Walker1.pdf) (and the LDCad file to generate them is [here](Walker1.ldr)).

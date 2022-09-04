@@ -6,3 +6,4 @@ These are my experiments with building walking robots, theoretically, virtually,
 
 - [Walker1 ![render](WalkerMechanism_200.gif)](Walker1)
 - [Walker2](Walker2)
+- [Physics simulations in Blender](BlenderWalker)

@@ -4,4 +4,4 @@ These are my experiments with building walking robots, theoretically, virtually,
 
 ## Walkers
 
-- [Walker1 ![render](walker1profile.png)](Walker1)
+- [Walker1 ![render](WalkerMechanism.gif)](Walker1)
